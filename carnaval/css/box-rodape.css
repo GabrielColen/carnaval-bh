@@ -1,0 +1,21 @@
+/********************
+Componente box-rodape
+********************/
+.rodape > div{
+	color:#672d86;
+	text-align:center;
+	
+}
+.box-rodape {
+    display: inline-block;
+
+	margin-left:7.5cm;
+}
+
+.box-rodape > .conteudo {
+
+}
+
+.box-rodape > .titulo {
+
+}

@@ -1,0 +1,28 @@
+/********************
+Componente menu-principal
+********************/
+.menu-principal {
+	text-align:center;
+	padding:0.2cm;
+	border-bottom: 4px solid#ffc200;
+	
+
+}
+
+.menu-principal > .lista {
+	margin:0.2cm;
+	
+
+}
+
+.menu-principal > .lista > .item {
+	display:inline;
+	padding:0.5cm;
+	color:#672d86;
+	font-weight:1000;
+	font-size:0.5cm; 
+}
+
+.menu-principal > .lista > .item a {
+	text-decoration:none; 
+}
